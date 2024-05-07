@@ -8,7 +8,7 @@ def runner(args):
     # Read the source image and return the grayscale matrix with values between 0-255
     image = img_reader.read_img(args.source_path)
     # Convert grayscale matrix to ASCII characters
-    
+    ascii = 
 
 
 
